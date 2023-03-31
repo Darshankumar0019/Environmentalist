@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:  rgb(115, 162, 175);
+}
+table{
+    height: 650px;
+}
+table{
+    margin: 4px;
+    border-color: white;
+}
+
+td{
+    border: 2px solid white;
+    
+    background-color: white;
+    padding:  4px;
+   margin: 5px;
+   
+    
+}
+button{
+    width: 170px;
+    background-color: white;
+    border-color: gray;
+    width: 100%;
+}
+button:hover{
+    background-color: green;
+}
+img{
+    max-width: 150px;
+    min-width: 10px;
+    height: 150px;
+
+}
+
+
+
+
+.input{
+    width: 100%;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    color: g;
+}
+input:focus{
+ 
+    outline-color: rgb(81, 0, 255);
+}
+#darshankumar0019{
+    margin: 10px  auto ;
+    width: 400px;
+    height: auto;
+    background-color:white;
+}
+
+    
